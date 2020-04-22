@@ -8,7 +8,7 @@ A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets yo
 
 ## Setup
 
-1. Put the clock script in your .todo.actions.d/ directory in your home folder.
+1. Put the clock script in your ` .todo.actions.d/ ` directory in your home folder.
 2. Edit the variables ` TODO_FILE ` and ` TODO_SH ` and point them to the proper paths in your system.
 
 ## Usage:
