@@ -6,6 +6,7 @@
 action=$1
 shift
 
+# Edit the paths here
 TODO_FILE="/path/to/todo.txt"
 TODO_SH="/path/to/todo.sh"
 
