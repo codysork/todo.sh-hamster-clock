@@ -10,6 +10,8 @@ shift
 TODO_FILE="/path/to/todo.txt"
 TODO_SH="/path/to/todo.sh"
 
+#====================================================
+
 function usage {
   echo " Clock:"
   echo "   clock in ITEM "
