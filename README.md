@@ -3,8 +3,8 @@ A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets yo
 
 ## Requirements
 
-- todo.txt-cli
-- hamster-time-tracker
+- [todo.txt-cli](https://github.com/todotxt/todo.txt-cli)
+- [hamster-time-tracker](https://github.com/projecthamster/hamster)
 
 ## Setup
 
