@@ -6,8 +6,8 @@
 action=$1
 shift
 
-TODO_FILE="/home/cody/Sync/Todo/now/todo.txt"
-TODO_SH="/home/cody/Scripts/todo/todo.sh"
+TODO_FILE="/path/to/todo.txt"
+TODO_SH="/path/to/todo.sh"
 
 function usage {
   echo " Clock:"
