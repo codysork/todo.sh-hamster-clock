@@ -3,14 +3,14 @@
 # Clock in or out of a task in hamster time tracker
 # Requirements: hamster-time-tracker
 
-action=$1
-shift
-
 # Edit the paths here
 TODO_FILE="/path/to/todo.txt"
 TODO_SH="/path/to/todo.sh"
 
 #====================================================
+
+action=$1
+shift
 
 function usage {
   echo " Clock:"
