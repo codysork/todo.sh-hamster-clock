@@ -13,8 +13,8 @@ action=$1
 shift
 
 function usage {
-  echo "    clock in ITEM "
-  echo "      Start a clock for ITEM, beginning now. This clock entry is"
+  echo "    clock in ITEM#"
+  echo "      Start a clock for ITEM#, beginning now. This clock entry is"
   echo "      written to your GNOME hamster database."
   echo ""
   echo "    clock out"
