@@ -14,6 +14,6 @@ A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets yo
 
 ## Usage:
 ```
-./todo.sh clock in TASK_NUM
-./todo.sh clock out
+todo.sh clock in TASK_NUM
+todo.sh clock out
 ```
