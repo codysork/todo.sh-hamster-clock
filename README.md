@@ -3,6 +3,6 @@ A todo.sh extension that lets you clock tasks in through Hamster, the GNOME time
 
 Usage:
 ```
-- ./todo.sh clock in TASK_NUM
-- ./todo.sh clock out
+./todo.sh clock in TASK_NUM
+./todo.sh clock out
 ```
