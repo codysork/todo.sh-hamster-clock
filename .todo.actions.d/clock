@@ -1,6 +1,9 @@
 #!/bin/bash
 #
-# Clock in or out of a task in hamster time tracker
+# Author: Cody Sork
+# License: GPL
+# Version: 1.0.0
+# Description: Clock in or out of a task in hamster time tracker
 # Requirements: hamster-time-tracker
 
 # Edit these paths
