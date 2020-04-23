@@ -14,7 +14,7 @@ A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets yo
 
 ## Usage
 
-Let's see what tasks are in our todo list first:
+Let's see what tasks are in our todo list first.
 ```
 $ ./todo.sh ls
 2 (A) Fight crime +Fighting
@@ -22,25 +22,25 @@ $ ./todo.sh ls
 3 (B) Go to the post office +Errands
 ```
 
-To clock in a task:
+Clock in a task
 ```
 $ ./todo.sh clock in 2
 Clocking in Fight Crime...
 ```
 
-To see the current clock:
+To see our current clock
 ```
 $ ./todo.sh clock cur
 2020-04-23 12:56 Fight Crime@Fighting 00:01
 ```
 
-Then when we want to clock out:
+Clock out a task
 ```
 $ ./todo.sh clock out
 Clocking out Fight Crime...
 ```
 
-Finally, to see a report of today's clock totals:
+To see a report of today's clock totals
 ```
 $ ./todo.sh clock report
 Start | End      | Duration | Activity     | Category
