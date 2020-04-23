@@ -12,7 +12,7 @@ A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets yo
 2. Edit the variables ` TODO_FILE ` and ` TODO_SH ` in the clock script and point 
    them to the proper paths in your system.
 
-## Usage:
+## Usage
 
 Let's see what tasks are in our todo list first:
 ```
