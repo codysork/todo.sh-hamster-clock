@@ -1,5 +1,5 @@
 # todo.sh-hamster-clock
-A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets you track time for tasks in through Hamster, the GNOME time tracker.
+A [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) extension that lets you track time for tasks in Hamster, the GNOME time tracker.
 
 ## Requirements
 
